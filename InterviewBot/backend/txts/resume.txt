@@ -1,75 +1,0 @@
-John Doe, PhD
-San Francisco, CA | johndoe@email.com | (123) 456-7890
-linkedin.com/in/johndoe | github.com/johndoe
-
-Generative AI Research Engineer
-Visionary AI scientist and engineer with 4+ years of experience at the intersection of large language models (LLMs), multimodal systems, and production-scale generative infrastructure. Combines deep theoretical expertise from PhD research in neural representation learning with hands-on experience building and deploying state-of-the-art generative AI products used by millions. Proven ability to lead cross-functional teams, publish high-impact research, and translate academic innovation into business value.
-
-EDUCATION
-Ph.D. in Artificial Intelligence
-Stanford University, Stanford, CA
-2019 – 2023
-
-Dissertation: “Efficient and Controllable Text-to-Image Generation via Hierarchical Latent Alignment”
-Advisor: Prof. Fei-Fei Li
-Published 3 first-author papers at NeurIPS and ICML on controllable diffusion models and prompt-based adaptation.
-Recipient of Stanford Graduate Fellowship & NSF GRFP Honorable Mention
-M.S. in Machine Learning
-Stanford University, Stanford, CA
-2017 – 2019
-
-B.S. in Computer Science (Honors)
-University of California, Berkeley
-2013 – 2017
-
-GPA: 3.92/4.0 | Dean’s List all semesters
-PROFESSIONAL EXPERIENCE
-Senior Generative AI Engineer
-NeuraLabs Inc., San Francisco, CA
-June 2023 – Present
-
-Spearheaded end-to-end development of an enterprise LLM platform supporting 10+ internal products; fine-tuned Llama-3-70B and Mistral-7B using QLoRA and DPO, achieving 92% human preference alignment on domain-specific QA tasks.
-Designed and deployed a multimodal RAG architecture combining CLIP, BLIP-2, and FAISS to ground generative responses in proprietary documentation, reducing hallucination rates by 58%.
-Led a team of 6 engineers to build a model evaluation framework for generative quality, safety, and latency—adopted org-wide and integrated into CI/CD pipelines.
-Reduced cloud inference costs by 65% via dynamic batching, model quantization (GGUF), and speculative decoding; saved $1.2M/year in AWS spend.
-Authored internal technical standards for prompt versioning, eval harnesses, and ethical AI guardrails.
-AI Research Intern
-Google DeepMind, Mountain View, CA
-May 2022 – August 2022
-
-Researched scalable methods for instruction tuning of vision-language models; contributed to early prototypes of PaLI-X extensions.
-Developed a contrastive learning objective for aligning text prompts with image semantics, improving zero-shot retrieval accuracy by 11%.
-Co-authored internal white paper on safety mitigations for generative vision systems.
-SELECT PROJECTS
-1. Enterprise-Grade RAG Platform (Open Source)
-
-Built a modular retrieval-augmented generation system using LlamaIndex, HyDE, and ColBERT for dense retrieval.
-Integrated hybrid search (keyword + vector), query rewriting, and re-ranking; achieved 89% top-3 accuracy on HotpotQA.
-Published as open-source library; now used by 12+ startups and featured in LangChain community highlights.
-2. GenEval: Benchmark for Generative Safety & Utility
-
-Created a comprehensive evaluation suite covering factuality, toxicity, bias, and coherence across 15+ domains.
-Released benchmark dataset with human annotations; cited in 3 academic papers and adopted by Hugging Face for model cards.
-3. CodeSynth: Context-Aware Code Generation Engine
-
-Trained a 770M-parameter code LLM on 400GB of GitHub data using CodeLlama base and StarCoder tokenizer.
-Added real-time AST-aware error correction and dependency-aware completion; 89% pass@1 on HumanEval.
-Integrated into NeuraLabs’ developer IDE plugin—used daily by 2,500+ engineers.
-CERTIFICATIONS
-AWS Certified Machine Learning – Specialty (2024)
-Google Professional Machine Learning Engineer (2023)
-Microsoft Certified: Azure AI Engineer Associate (2024)
-DeepLearning.AI: Generative AI with LLMs Specialization (2023)
-NVIDIA Accelerated Computing Developer (CUDA & TensorRT) (2024)
-TECHNICAL EXPERTISE
-Languages: Python, C++, JavaScript, SQL, Rust
-LLM/GenAI: Fine-tuning (LoRA, QLoRA, DPO, RLHF), RAG, Prompt Engineering, LLM Agents, Guardrails, Multimodal Models (LLaVA, Stable Diffusion 3, FLUX)
-Frameworks: PyTorch, Hugging Face Transformers, LangChain, LlamaIndex, vLLM, LightLLM, ONNX, TensorRT-LLM
-Cloud & Infra: AWS (SageMaker, Lambda, EKS, S3), GCP Vertex AI, Docker, Kubernetes, Terraform, MLflow, Weights & Biases
-Vector Databases: FAISS, Pinecone, Qdrant, Chroma
-Research Areas: Controllable Generation, Efficient Inference, Model Alignment, Representation Learning
-PUBLICATIONS & COMMUNITY
-First-author, “Latent Prompt Tuning for Efficient Multimodal Generation”, NeurIPS 2023
-Co-author, “Scalable Evaluation of Generative AI in Enterprise Settings”, ACL Industry Track 2024
-Regular speaker at MLconf, GenAI Summit, and Hugging Face Dev Days
-Open-source contributor to Hugging Face Transformers, LangChain, and vLLM
