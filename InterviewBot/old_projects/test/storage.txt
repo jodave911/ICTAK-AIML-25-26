@@ -1,0 +1,108 @@
+John Doe
+San Francisco, CA | johndoe@email.com | (123) 456-7890 | linkedin.com/in/johndoe | github.com/johndoe
+
+Generative AI Engineer
+Innovative and detail-oriented Generative AI Engineer with 1.5 years of experience designing, training, and deploying large language models (LLMs) and multimodal AI systems. Skilled in prompt engineering, fine-tuning transformer architectures, and building scalable generative pipelines using modern ML frameworks.
+
+PROFESSIONAL EXPERIENCE
+
+AI Engineer
+NeuraLabs Inc., San Francisco, CA
+June 2023 – Present
+
+Developed and deployed a fine-tuned Llama-2-based customer support chatbot, reducing human agent workload by 35% and improving response accuracy by 22%.
+Built a multimodal content generation pipeline using CLIP and Stable Diffusion to auto-generate marketing visuals from text prompts, adopted by 3 internal product teams.
+Optimized inference latency by 40% through quantization and ONNX runtime integration for generative models in production.
+Collaborated with product and data teams to implement human-in-the-loop feedback systems for continuous model improvement.
+PROJECTS
+
+1. Personalized Story Generator
+
+Created a fine-tuned T5 model that generates short fiction stories tailored to user preferences (genre, tone, characters).
+Integrated retrieval-augmented generation (RAG) to maintain narrative consistency and fact grounding.
+Deployed as a Flask API with React frontend; achieved 4.7/5 user satisfaction in beta testing.
+2. CodeWhisperer Clone (Open-Source)
+
+Trained a 160M-parameter code generation model on GitHub public repositories using CodeLlama architecture.
+Implemented context-aware autocompletion for Python and JavaScript with 82% syntactic correctness in evaluations.
+Open-sourced on GitHub; received 450+ stars and 30+ forks within 2 months.
+3. AI-Powered Resume Builder
+
+Engineered a generative system that transforms user inputs into ATS-optimized resumes using few-shot prompting with GPT-3.5 Turbo.
+Added PDF export and keyword optimization features based on real job descriptions.
+Hosted on AWS Lambda with S3 storage; used by 1,200+ beta users.
+CERTIFICATIONS
+
+AWS Certified Machine Learning – Specialty (2024)
+DeepLearning.AI Generative AI with LLMs Specialization (2023)
+Google Cloud Professional Machine Learning Engineer (2023)
+TECHNICAL SKILLS
+
+Languages: Python, JavaScript, SQL
+ML Frameworks: PyTorch, Hugging Face Transformers, LangChain, LlamaIndex
+Cloud/DevOps: AWS (SageMaker, Lambda, S3), Docker, FastAPI, Git
+Generative AI: LLM fine-tuning (LoRA, QLoRA), RAG, Prompt Engineering, Stable Diffusion, Vector Databases (Pinecone, FAISS)
+EDUCATION
+
+B.S. in Computer Science
+University of California, Berkeley – 2022
+
+
+
+Generative AI Engineer job brief
+
+We are seeking a skilled Generative AI Engineer to join our team and lead the development of innovative AI solutions. Your expertise in generative models, deep learning, and data analysis will be critical in creating intelligent and transformative AI applications. You will work closely with cross-functional teams to conceptualize, design, test, and deploy AI projects that drive innovation and provide value in the rapidly evolving field of artificial intelligence. Join us and be part of a dynamic team that is shaping the future of AI.
+
+
+Generative AI Engineer job responsibilities:
+- Design and develop algorithms for generative models using deep learning techniques.
+
+- Collaborate with cross-functional teams to integrate generative AI solutions into existing workflow systems.
+
+- Research and stay up-to-date on the latest advancements in generative AI technologies and methodologies.
+
+- Optimize and fine-tune generative models for performance and efficiency.
+
+- Troubleshoot and resolve issues related to generative AI models and implementations.
+
+- Create and maintain documentation for generative AI models and their applications.
+
+- Communicate complex technical concepts and findings to non-technical stakeholders.
+
+Generative AI Engineer job requirements:
+- Strong background in machine learning and deep learning algorithms.
+
+- Proficiency in Python, TensorFlow, and PyTorch for developing AI models.
+
+- Experience in generative AI techniques such as GANs and VAEs.
+
+- Ability to design and implement scalable and efficient AI systems.
+
+- Advanced knowledge of natural language processing for text generation tasks.
+
+- Familiarity with computer vision and image generation using AI.
+
+- Skills in data preprocessing and feature engineering for AI model training.
+
+- Strong understanding of neural network architectures and optimization techniques.
+
+- Experience in deploying AI models into production environments.
+
+- Ability to stay updated with the latest advancements in generative AI research and incorporate them into work.
+
+
+Join our team as a Generative AI Engineer
+- Joining our team as a Generative AI Engineer means being at the forefront of innovation, working on cutting-edge projects that are shaping the future of AI and machine learning.
+
+- As a Generative AI Engineer on our team, you'll have the opportunity to collaborate with top experts in the field, contributing to groundbreaking research and development that has real-world impact.
+
+- We offer a dynamic and collaborative work environment where your ideas and contributions are valued, and where you'll have the resources and support needed to bring your vision to life.
+
+- Joining our team as a Generative AI Engineer means being part of a culture that fosters continuous learning and professional growth, with access to ongoing training and development opportunities.
+
+- As a Generative AI Engineer with our team, you'll have the chance to work on diverse and challenging projects, gaining valuable experience and expertise that will set you apart in your career.
+
+
+Generative AI Engineer salary and benefits:
+In today's competitive job market, transparency is key to attracting top talent. 50000$ salary range and benefits in your Generative AI Engineer job description, Offering a competitive salary range, along with benefits like remote work options, ongoing education stipends, or comprehensive health care packages, 
+also distinguish our organization in a field rife with opportunities. Ultimately, transparently presenting the full compensation package is a smart, strategic move that attracts candidates who are not just highly skilled but also aligned with our company's values and long-term vision.

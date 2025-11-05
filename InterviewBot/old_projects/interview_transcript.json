@@ -1,0 +1,22 @@
+[
+    {
+        "type": "JD",
+        "question": "Beyond designing algorithms, what do you see as the most critical aspects for successfully integrating and maintaining generative AI solutions within an existing enterprise environment?",
+        "answer": "i dont know\n[Follow-up Answer]: chill and use gpt "
+    },
+    {
+        "type": "RAG",
+        "question": "The job description highlights the need for experience in designing and implementing scalable AI systems and deploying them into production. Your resume notes hands-on experience building and deploying state-of-the-art generative AI products used by millions. Could you describe a specific technical challenge you encountered when scaling one of these generative AI products for production, explaining your decision-making process and the impact of the solution you implemented?",
+        "answer": "i dont knwo\n[Follow-up Answer]: still dont know the answer"
+    },
+    {
+        "type": "SITUATIONAL",
+        "question": "Suppose a generative model you've integrated into an existing content creation workflow suddenly begins producing outputs that consistently violate a key brand guideline, despite no recent code changes. How would you investigate and pinpoint the source of this new, undesirable behavior?",
+        "answer": "figure it out with gpt\n[Follow-up Answer]: i dont know"
+    },
+    {
+        "type": "RESUME",
+        "question": "Regarding your development of a contrastive learning objective for aligning text prompts with image semantics, could you elaborate on the specific technical challenges you encountered in achieving that alignment, and what unique aspects of your objective's design directly contributed to the reported 11% improvement in zero-shot retrieval accuracy?",
+        "answer": "sill dont know \n[Follow-up Answer]: my friend did it"
+    }
+]
